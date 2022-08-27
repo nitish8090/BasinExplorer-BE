@@ -3,7 +3,9 @@
 
 ![Project Image](https://github.com/nitish8090/BasinExplorer-BE/blob/master/preview.png?raw=true)
 
-BasinExplorerBE is the BackEnd of the Basin Explorer project. The project is built using [Django](https://github.com/django/django), [Django REST Framework](https://github.com/encode/django-rest-framework), [Django-REST-Framework-GIS](https://github.com/openwisp/django-rest-framework-gis), etc. 
+BasinExplorerBE is the BackEnd of the Basin Explorer project. This project was created for demonstration of my skills. The idea behind this project is to create a portal where user can view Geographic information of river basin the area. There can be two types of user with different level of privileges and only high level users shall be able to access full data. The data is coming from REST APIs which can be highly dynamic and any change in data can be reflected on the portal.
+
+The project is built using [Django](https://github.com/django/django), [Django REST Framework](https://github.com/encode/django-rest-framework), [Django-REST-Framework-GIS](https://github.com/openwisp/django-rest-framework-gis), etc. 
 
 To see a live demo, go to:
 **[Project Link!](https://www.nitishpatel.in/preview/basinexplorer)**
@@ -31,7 +33,7 @@ These APIs are consumed by front end where open layer is using these data to cre
 
 The Data is saved in a Postgres database with postgis extension installed. 
 
-This project was created for demonstration of my skills.
+
 
 <hr>
 
