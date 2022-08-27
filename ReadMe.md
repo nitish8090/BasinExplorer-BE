@@ -1,12 +1,13 @@
 ## Basin Explorer
 #### Author: Nitish Patel
+|Build Status|
 
 ![Project Image](https://github.com/nitish8090/BasinExplorer-BE/blob/master/preview.png?raw=true)
 
-BasinExplorerBE is the BackEnd of the Basin Explorer project. The project is built using `Django`, `Django REST Framework`, `django-rest-framework-gis`, etc. 
+BasinExplorerBE is the BackEnd of the Basin Explorer project. The project is built using [Django](https://github.com/django/django), [Django REST Framework](https://github.com/encode/django-rest-framework), [Django-REST-Framework-GIS](https://github.com/openwisp/django-rest-framework-gis), etc. 
 
-To see a live demo, go to: 
-https://www.nitishpatel.in/preview/basinexplorer
+To see a live demo, go to:
+**[Project Link!](https://www.nitishpatel.in/preview/basinexplorer)**
 
 <hr>
 
@@ -35,4 +36,6 @@ This project was created for demonstration of my skills.
 
 <hr>
 
+References:
+- 
 
