@@ -1,6 +1,5 @@
 ## Basin Explorer
 #### Author: Nitish Patel
-|Build Status|
 
 ![Project Image](https://github.com/nitish8090/BasinExplorer-BE/blob/master/preview.png?raw=true)
 
@@ -36,6 +35,5 @@ This project was created for demonstration of my skills.
 
 <hr>
 
-References:
-- 
+
 
